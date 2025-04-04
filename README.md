@@ -1,4 +1,4 @@
-# LEAN2-HW-Template
+# Lean HW4 assignment
 
 this is the repo where I'll post the homework assignment "LEAN-HW4" for MAT 211 at MCCC.
 
